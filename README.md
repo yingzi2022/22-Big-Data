@@ -2,7 +2,7 @@
 NW Data Camp Homework Week 22 Homework: “Alexa, Can You Handle Big Data?”
 
 About HW Submission
-The purpose of this homework is to utilize the Extract, Transform, Load (ETL) skills by creating AWS RDS database and S3 bucket. 
+The purpose of this homework for Level-1 task is to utilize the Extract, Transform, Load (ETL) skills by creating AWS RDS database and S3 bucket. 
 Data was extracted from amazon sql server and post to PgAdmin.
 
 Approach taken
