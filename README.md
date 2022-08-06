@@ -6,7 +6,7 @@ The purpose of this homework is to utilize the Extract, Transform, Load (ETL) sk
 Data was extracted from amazon sql server and post to PgAdmin.
 
 Technology used
-PgAdmin, Sparks, DataFrame
+PgAdmin, Sparks, DataFrame, AWS RDS, S3
 
 Two datasets selected to complete Level-1 homework
   1. https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Beauty_v1_00.tsv.gz
